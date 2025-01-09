@@ -20,7 +20,7 @@ I work with a range of technologies and enjoy learning new ones.
 You can connect with me through the following platforms:
 
 [![Email](https://img.shields.io/badge/Email-0072C6?style=flat&logo=gmail&logoColor=white)](mailto:sopix3n@gmail.com)
-[![X](https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white)](https://twitter.com/sopix3n)
+[![X](https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white)](https://x.com/sopix3n)
 [![Bluesky](https://img.shields.io/badge/Bluesky-2E5D7A?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/sopix3n)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/sopix3n)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sopix3n)
