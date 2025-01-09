@@ -19,8 +19,8 @@ I work with a range of technologies and enjoy learning new ones.
 ## 📱 Get in Touch
 You can connect with me through the following platforms:
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/sopix3n)
-![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white) [Telegram](https://t.me/sopix3n)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) [Reddit](https://www.reddit.com/user/sopix3n)
-![Bluesky](https://img.shields.io/badge/Bluesky-2E5D7A?style=flat&logo=bluesky&logoColor=white) [Bluesky](https://bsky.app/profile/sopix3n)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) [Discord](https://discord.com/users/sopix3n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sopix3n)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/sopix3n)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/sopix3n)
+[![Bluesky](https://img.shields.io/badge/Bluesky-2E5D7A?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/sopix3n)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/sopix3n)
