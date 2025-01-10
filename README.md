@@ -2,7 +2,7 @@
 
 - I'm 18 years old, born on April 3, 2006, and I prefer to be called Pixi.
 - I didn't learn half of the languages below professionally, but I can work with them.
-- At the moment, I'm only trying to learn Unity and C++.
+- At the moment, I'm only trying to learn Unity and C#.
 - No, my username has no meaning; I just thought it looks good.
 - No, the 3 is there only to make the username unique and usable on all platforms.
 - These are the platforms where you can get in touch with me:
@@ -19,6 +19,7 @@
 <!-- ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) -->
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
