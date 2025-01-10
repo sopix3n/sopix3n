@@ -3,8 +3,6 @@
 - I'm 18 years old, born on April 3, 2006, and I prefer to be called Pixi.
 - I didn't learn half of the languages below professionally, but I can work with them.
 - At the moment, I'm only trying to learn Unity and C++.
-  
-
 - No, my username has no meaning; I just thought it looks good.
 - No, the 3 is there only to make the username unique and usable on all platforms.
 - These are the platforms where you can get in touch with me:
