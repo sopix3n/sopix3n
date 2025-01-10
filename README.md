@@ -4,9 +4,10 @@
 - I didn't learn half of the languages below professionally, but I can work with them.
 - At the moment, I'm only trying to learn Unity and C++.
   
-- No, my username has no meaning; I just thought it looks good.
-- No, the 3 is there only to make the username unique and usable on all platforms.
-- These are the platforms where you can get in touch with me:
+
+No, my username has no meaning; I just thought it looks good.
+No, the 3 is there only to make the username unique and usable on all platforms.
+These are the platforms where you can get in touch with me:
   
 [![Email](https://img.shields.io/badge/Email-0072C6?style=flat&logo=gmail&logoColor=white)](mailto:sopix3n@gmail.com)
 [![X](https://img.shields.io/badge/X-1D1D1F?style=flat&logo=x&logoColor=white)](https://x.com/sopix3n)
