@@ -22,7 +22,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![GLSL](https://img.shields.io/badge/GLSL-00979D?style=flat&logo=opengl&logoColor=white) 
-![HLSL](https://img.shields.io/badge/HLSL-00979D?style=flat&logo=directx&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-00979D?style=flat&logo=windows&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-9C1006?style=flat&logo=vulkan&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
