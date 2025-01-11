@@ -21,7 +21,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![OpenGL](https://img.shields.io/badge/OpenGL-58C6B7?style=flat&logo=opengl&logoColor=black)
-![Vulkan](https://img.shields.io/badge/Vulkan-7F3F56?style=flat&logo=vulkan&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=flat&logo=microsoft&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-00B0B9?style=flat&logo=shader&logoColor=black)
